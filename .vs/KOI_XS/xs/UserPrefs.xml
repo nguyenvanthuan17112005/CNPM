@@ -1,16 +1,21 @@
 ﻿<Properties StartupConfiguration="{D8251707-A2F0-477B-BB37-6434434900DF}|Default">
-  <MonoDevelop.Ide.ItemProperties.KOI__XS.Presentation PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KOI_XS.DAL/KoiContext.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets">
     <Files>
-      <File FileName="KOI_XS.DAL/KoiContext.cs" Line="1" Column="1" />
+      <File FileName="KOI_XS.DAL/KoiContext.cs" />
+      <File FileName="KOI_XS.DAL/Entities/Customer.cs" />
+      <File FileName="KOI_XS.DAL/Entities/Koi.cs" />
+      <File FileName="KOI_XS.DAL/Entities/KoiFish.cs" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets" Line="151" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="KOI_XS">
+          <Node name="KOI_XS" expanded="True">
             <Node name="KOI_XS.BLL" expanded="True" />
-            <Node name="KOI_XS.DAL" expanded="True" />
+            <Node name="KOI_XS.DAL" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
             <Node name="KOI_XS.Presentation" expanded="True" />
           </Node>
         </State>
@@ -18,8 +23,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KOI__XS.Presentation PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
